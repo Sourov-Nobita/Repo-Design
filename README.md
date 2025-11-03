@@ -1,71 +1,3 @@
-## 🛠️ Tech Stack
-
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Tools:** Git, Docker, VS Code
-- **Databases:** PostgreSQL, MongoDB
-
-## My recent projects
-
-[![File Store](https://github-readme-stats.vercel.app/api/pin?username=Codeflix-bots&theme=github_dark&hide_border=true&repo=filestore)](https://github.com/Codeflix-bots/filestore)
-[![AutoRename](https://github-readme-stats.vercel.app/api/pin?username=Codeflix-bots&theme=github_dark&hide_border=true&repo=auto-rename-bot)](https://github.com/Codeflix-bots/auto-rename-bot)
-[![Links Share Bot](https://github-readme-stats.vercel.app/api/pin?username=Codeflix-bots&theme=github_dark&hide_border=true&repo=Links-Share-Bot )](https://github.com/Codeflix-Bots/Links-Share-Bot)
-[![Premium Plans](https://github-readme-stats.vercel.app/api/pin?username=Codeflix-bots&theme=github_dark&hide_border=true&repo=Premium-Plans)](https://github.com/Codeflix-Bots/Premium-Plans)
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=codeflix-bots)](https://github.com/codeflix-bots/github-readme-stats)
-
----
-
-
-![Profile counter](https://moe-counter.glitch.me/get/@codeflix-bots)
-
-
-
-
-
-<p align="center">
-  <!-- Animated typing header -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=40&duration=3000&pause=800&color=F7F7F7&width=800&lines=Hey,+I'm+Nobita.;From+Dhaka,+Bangladesh.;Creator+of+Rare_Bots_Hub" alt="Typing SVG"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Small subtitle -->
-  <em><strong>Building delightful bots & polished web-tools — made to look premium ✨</strong></em>
-</p>
-
-<p align="center">
-  <!-- Animated gradient divider (GIF) for premium feel -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="gradient" width="100%" style="max-width:900px; border-radius:12px;"/>
-</p>
-
-<p align="center">
-  <!-- Social / contact badges -->
-  <a href="https://t.me/Rare_Bots_Hub" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40Rare__Bots__Hub-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram"></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
-</p>
-
-<p align="center">
-  <!-- GitHub stats cards (looks modern & "premium") -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- A short "call-to-action" card -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=18&duration=2200&pause=800&color=F7F7F7&width=700&lines=I+build+chatbots+and+web+tools.;Looking+to+collaborate%3F+DM+me+on+Telegram." alt="CTA typing"/>
-</p>
-
----
-
-### Want it even more premium?
-- যদি তুমি চান **animated background SVG** বা **custom GIF**—তাহলে বলো, আমি তোমার নাম/রঙ/ইমেজ অনুযায়ী একটি কাস্টম animated SVG বা GIF বানিয়ে দেব।  
-- চাইলে টেক্সট শেড, custom gradient, এবং একটি centered "downloadable thumbnail" card ও যোগ করে দেই যা দেখে সত্যিই paid-template লাগে।
-
 
 <!-- Animated Premium Header -->
 <p align="center">
@@ -269,3 +201,62 @@
     </rect>
   </svg>
 </div>
+
+
+<p align="center">
+  <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <radialGradient id="grad">
+        <stop offset="0%" stop-color="#00FFFF">
+          <animate attributeName="stop-color" values="#00FFFF;#8A2BE2;#00FFFF" dur="4s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#000000" />
+      </radialGradient>
+    </defs>
+    <circle cx="100" cy="100" r="80" fill="url(#grad)">
+      <animate attributeName="r" values="70;90;70" dur="3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 100 100" to="360 100 100" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
+</p>
+
+
+
+
+<p align="center">
+  <svg viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="wave" gradientTransform="rotate(90)">
+        <stop offset="0%" stop-color="#00FFFF">
+          <animate attributeName="stop-color" values="#00FFFF;#8A2BE2;#00FFFF" dur="3s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#8A2BE2">
+          <animate attributeName="stop-color" values="#8A2BE2;#00FFFF;#8A2BE2" dur="3s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+    </defs>
+    <path fill="none" stroke="url(#wave)" stroke-width="4">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="M0,60 Q300,100 600,60 T1200,60;
+                M0,50 Q300,10 600,50 T1200,50;
+                M0,60 Q300,100 600,60 T1200,60"/>
+    </path>
+  </svg>
+</p>
+
+
+
+
+
+<p align="center">
+  <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="100" cy="100" r="40" stroke="#00FFFF" stroke-width="3" fill="none">
+      <animate attributeName="r" values="40;70;40" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="100" cy="100" r="60" stroke="#8A2BE2" stroke-width="2" fill="none">
+      <animate attributeName="r" values="60;90;60" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
+</p>
