@@ -129,3 +129,30 @@ Thanks for visiting my profile! Feel free to explore my repositories, and don't 
 ### Want it even more premium?
 - যদি তুমি চান **animated background SVG** বা **custom GIF**—তাহলে বলো, আমি তোমার নাম/রঙ/ইমেজ অনুযায়ী একটি কাস্টম animated SVG বা GIF বানিয়ে দেব।  
 - চাইলে টেক্সট শেড, custom gradient, এবং একটি centered "downloadable thumbnail" card ও যোগ করে দেই যা দেখে সত্যিই paid-template লাগে।
+
+
+<!-- Animated Premium Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+I'm+Nobita;From+Dhaka,+Bangladesh;The+Mind+Behind+Rare+Bots+Hub+🤖" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Sourov-Nobita&theme=radical&data=followers,repositories,stars,commits" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sourov-Nobita&theme=neon-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <a href="https://t.me/Rare_Bots_Hub" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%40Rare__Bots__Hub-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://github.com/Sourov-Nobita" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Sourov--Nobita-333?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FFFF,100:8A2BE2&text=⚡%20Welcome%20To%20My%20World%20⚡&fontColor=FFFFFF&fontAlignY=35&animation=twinkling" />
+</p>
