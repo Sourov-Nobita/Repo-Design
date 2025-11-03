@@ -76,3 +76,56 @@ You can connect with me on various platforms:
 
 Thanks for visiting my profile! Feel free to explore my repositories, and don't forget to leave a star ⭐️ if you find something interesting!
 
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <!-- Animated typing header -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=40&duration=3000&pause=800&color=F7F7F7&width=800&lines=Hey,+I'm+Nobita.;From+Dhaka,+Bangladesh.;Creator+of+Rare_Bots_Hub" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- Small subtitle -->
+  <em><strong>Building delightful bots & polished web-tools — made to look premium ✨</strong></em>
+</p>
+
+<p align="center">
+  <!-- Animated gradient divider (GIF) for premium feel -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="gradient" width="100%" style="max-width:900px; border-radius:12px;"/>
+</p>
+
+<p align="center">
+  <!-- Social / contact badges -->
+  <a href="https://t.me/Rare_Bots_Hub" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40Rare__Bots__Hub-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram"></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
+</p>
+
+<p align="center">
+  <!-- GitHub stats cards (looks modern & "premium") -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- A short "call-to-action" card -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=18&duration=2200&pause=800&color=F7F7F7&width=700&lines=I+build+chatbots+and+web+tools.;Looking+to+collaborate%3F+DM+me+on+Telegram." alt="CTA typing"/>
+</p>
+
+---
+
+### Want it even more premium?
+- যদি তুমি চান **animated background SVG** বা **custom GIF**—তাহলে বলো, আমি তোমার নাম/রঙ/ইমেজ অনুযায়ী একটি কাস্টম animated SVG বা GIF বানিয়ে দেব।  
+- চাইলে টেক্সট শেড, custom gradient, এবং একটি centered "downloadable thumbnail" card ও যোগ করে দেই যা দেখে সত্যিই paid-template লাগে।
