@@ -179,3 +179,25 @@ Thanks for visiting my profile! Feel free to explore my repositories, and don't 
   <!-- Animated Wave Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8A2BE2,100:00FFFF&section=footer"/>
 </p>
+
+
+<!-- ⚔️ Premium Animated Profile Stats Section -->
+<p align="center">
+  <!-- Animated Title Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:8A2BE2,100:00FFFF&text=⚔️%20Sourov-Nobita's%20Stats%20⚔️&fontAlign=50&fontColor=FFFFFF&fontSize=28&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <!-- Glowing Profile Widget (Neon Villain Style) -->
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Sourov-Nobita&theme=darkmode&data=followers,repositories,stars,commits&border_color=8A2BE2&title_color=00FFFF&text_color=E0E0E0&bg_color=0D1117" width="85%" style="border-radius:20px;box-shadow:0px 0px 25px #00FFFF;animation:glowPulse 3s infinite alternate;"/>
+</p>
+
+<p align="center">
+  <!-- Animated Subtext -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=💫+Stats+Don’t+Lie,+Legends+Grind!+💫;⚡+Every+Commit+Tells+A+Story!+⚡" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <!-- Bottom Animated Gradient Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FFFF,100:8A2BE2&section=footer"/>
+</p>
