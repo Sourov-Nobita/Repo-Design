@@ -137,3 +137,46 @@
   <!-- Bottom Animated Gradient Divider -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FFFF,100:8A2BE2&section=footer"/>
 </p>
+
+
+<!-- 💀 Premium Animated GitHub Profile Section -->
+<p align="center">
+  <!-- Neon Glowing Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF00FF,100:00FFFF&text=💀%20Sourov-Nobita%20💀&fontAlign=50&fontColor=FFFFFF&fontSize=35&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <!-- Animated Typing Intro -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Villain+Mindset+Activated...;Code.+Create.+Conquer.⚡;Master+of+Rare+Bots+Hub+🤖" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <!-- Premium GitHub Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourov-Nobita&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=8A2BE2&text_color=E0E0E0" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sourov-Nobita&theme=tokyonight-duo&hide_border=true&ring=00FFFF&fire=8A2BE2&currStreakLabel=FFFFFF" width="49%" />
+</p>
+
+<p align="center">
+  <!-- Animated Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourov-Nobita&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2&bg_color=0D1117" width="60%" />
+</p>
+
+<p align="center">
+  <!-- Animated Divider -->
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500"/>
+</p>
+
+<p align="center">
+  <!-- Neon Badges -->
+  <a href="https://t.me/Rare_Bots_Hub" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%40Rare__Bots__Hub-00FFFF?style=for-the-badge&logo=telegram&logoColor=black" />
+  </a>
+  <a href="https://github.com/Sourov-Nobita">
+    <img src="https://img.shields.io/badge/GitHub-Sourov--Nobita-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Footer Glow -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FFFF,100:8A2BE2&section=footer"/>
+</p>
