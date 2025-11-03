@@ -180,3 +180,41 @@
   <!-- Footer Glow -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FFFF,100:8A2BE2&section=footer"/>
 </p>
+
+
+<!-- 🌌 Modern Premium GitHub Profile Section -->
+<p align="center">
+  <!-- Typing Intro -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00E0FF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Sourov+Nobita;Full-Stack+Bot+%26+Web+Developer;Creator+of+Rare+Bots+Hub+🤖" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <!-- Smooth Divider -->
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/horizontal-divider-gradient.gif" width="60%" />
+</p>
+
+<p align="center">
+  <!-- Stats + Streak Combo -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourov-Nobita&show_icons=true&theme=transparent&title_color=00E0FF&text_color=C0C0C0&icon_color=00E0FF&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sourov-Nobita&theme=transparent&hide_border=true&ring=00E0FF&currStreakLabel=00E0FF&fire=8A2BE2&background=00000000" width="49%" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourov-Nobita&layout=compact&theme=transparent&hide_border=true&title_color=00E0FF&text_color=C0C0C0" width="45%" />
+</p>
+
+<p align="center">
+  <!-- Animated Neon Line -->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="80%" />
+</p>
+
+<p align="center">
+  <!-- Contact / Links -->
+  <a href="https://t.me/Rare_Bots_Hub" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%40Rare__Bots__Hub-00E0FF?style=for-the-badge&logo=telegram&logoColor=black" />
+  </a>
+  <a href="https://github.com/Sourov-Nobita">
+    <img src="https://img.shields.io/badge/GitHub-Sourov--Nobita-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
