@@ -156,3 +156,26 @@ Thanks for visiting my profile! Feel free to explore my repositories, and don't 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FFFF,100:8A2BE2&text=⚡%20Welcome%20To%20My%20World%20⚡&fontColor=FFFFFF&fontAlignY=35&animation=twinkling" />
 </p>
+
+
+
+<!-- 🌌 Premium Animated Streak Section -->
+<p align="center">
+  <!-- Animated Gradient Banner (Top) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00FFFF,100:8A2BE2&text=🔥%20Sourov-Nobita's%20Activity%20🔥&fontAlign=50&fontColor=FFFFFF&fontSize=28&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <!-- Glowing GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sourov-Nobita&theme=highcontrast&background=0D1117&ring=00FFFF&fire=8A2BE2&currStreakLabel=FFFFFF&sideNums=00FFFF&currStreakNum=8A2BE2&hide_border=true" width="80%" />
+</p>
+
+<p align="center">
+  <!-- Animated Subtext -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=⚡+Consistency+Is+The+Key+To+Power!+⚡;🔥+Coding+Every+Day+Builds+Legends!+🔥" alt="typing animation" />
+</p>
+
+<p align="center">
+  <!-- Animated Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8A2BE2,100:00FFFF&section=footer"/>
+</p>
