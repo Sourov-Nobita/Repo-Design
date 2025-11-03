@@ -218,3 +218,54 @@
     <img src="https://img.shields.io/badge/GitHub-Sourov--Nobita-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+
+
+
+<p align="center">
+  <svg viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient" gradientTransform="rotate(90)">
+        <stop offset="0%" stop-color="#00FFFF">
+          <animate attributeName="stop-color" values="#00FFFF;#8A2BE2;#00FFFF" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#8A2BE2">
+          <animate attributeName="stop-color" values="#8A2BE2;#00FFFF;#8A2BE2" dur="4s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="65%" font-size="60" font-family="Orbitron" text-anchor="middle" fill="url(#gradient)">
+      Sourov Nobita ⚡
+    </text>
+  </svg>
+</p>
+
+
+
+
+<p align="center">
+  <svg viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+    <path fill="none" stroke="#00FFFF" stroke-width="4">
+      <animate attributeName="d" dur="5s" repeatCount="indefinite"
+        values="M0,50 Q300,100 600,50 T1200,50;
+                M0,60 Q300,10 600,60 T1200,60;
+                M0,50 Q300,100 600,50 T1200,50" />
+    </path>
+  </svg>
+</p>
+
+
+
+
+
+
+<div align="center">
+  <a href="https://t.me/Rare_Bots_Hub" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=Welcome+to+Rare+Bots+Hub;Code+like+a+Villain+😈" />
+  </a>
+  <svg width="520" height="5">
+    <rect width="520" height="5" fill="#8A2BE2">
+      <animate attributeName="fill" values="#8A2BE2;#00FFFF;#8A2BE2" dur="2s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+</div>
